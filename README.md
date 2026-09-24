@@ -5,7 +5,7 @@
 ## 📷 System Prototype
 
 <p align="center">
-  <img src="system_prototype.png" width="700">
+  <img src="system_prototype1.png" width="700">
 </p>
 
 ## 🏗️ System Architecture
